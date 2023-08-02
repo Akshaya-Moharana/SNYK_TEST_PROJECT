@@ -6,6 +6,7 @@ Public Class Form1
     Private _isPrivacyClaimUser As Boolean = False
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Dim message As String = CallCDSToAuthenticate(TextBox1.Text, TextBox2.Text)
+        Dim sPassword = "Akshaya@1342"
         TextBox4.Text = message
 
         If _isPrivacyClaimUser = True Then
