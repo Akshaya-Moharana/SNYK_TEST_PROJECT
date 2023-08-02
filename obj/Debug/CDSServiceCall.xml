@@ -1,0 +1,449 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CDSServiceCall
+</name>
+</assembly>
+<members>
+<member name="T:CDSServiceCall.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CDSServiceCall.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CDSServiceCall.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.CDSWS">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.#ctor">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.DBRRCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.QueryDomainAliasNamesVTCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.QueryDomainAliasNamesCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainNameVTCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainNameCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainPathVTCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainPathCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.VerifyConnectionCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.AuthenticateCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.SearchCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.QueryGroupListCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.DirectoryUpdateCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.AuthenticateMembershipCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.ChangePasswordCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.SetPasswordCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.CreateUserCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.UpdateUserCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.VersionCompleted">
+<remarks/>
+</member>
+<member name="E:CDSServiceCall.com.crawco.cdsws.CDSWS.ManifestVersionCompleted">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.DBRR(System.Boolean)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.DBRRAsync(System.Boolean)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.DBRRAsync(System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.QueryDomainAliasNamesVT(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.QueryDomainAliasNamesVTAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.QueryDomainAliasNamesVTAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.QueryDomainAliasNames">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.QueryDomainAliasNamesAsync">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.QueryDomainAliasNamesAsync(System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainNameVT(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainNameVTAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainNameVTAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainName(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainNameAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainNameAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainPathVT(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainPathVTAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainPathVTAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainPath(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainPathAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.GetDomainPathAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.VerifyConnection(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.VerifyConnectionAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.VerifyConnectionAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.Authenticate(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.AuthenticateAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.AuthenticateAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.Search(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.SearchAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.SearchAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.QueryGroupList(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.QueryGroupListAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.QueryGroupListAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.DirectoryUpdate(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.DirectoryUpdateAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.DirectoryUpdateAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.AuthenticateMembership(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.AuthenticateMembershipAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.AuthenticateMembershipAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.ChangePassword(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.ChangePasswordAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.ChangePasswordAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.SetPassword(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.SetPasswordAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.SetPasswordAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.CreateUser(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.CreateUserAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.CreateUserAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.UpdateUser(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.UpdateUserAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.UpdateUserAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.Version">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.VersionAsync">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.VersionAsync(System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.ManifestVersion">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.ManifestVersionAsync">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.ManifestVersionAsync(System.Object)">
+<remarks/>
+</member>
+<member name="M:CDSServiceCall.com.crawco.cdsws.CDSWS.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.AuthHeader">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.AuthHeader.Username">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.AuthHeader.Password">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.AuthHeader.Domain">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.AuthHeader.AnyAttr">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.DBRRCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.DBRRCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.DBRRCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.QueryDomainAliasNamesVTCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.QueryDomainAliasNamesVTCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.QueryDomainAliasNamesVTCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.QueryDomainAliasNamesCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.QueryDomainAliasNamesCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.QueryDomainAliasNamesCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.GetDomainNameVTCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.GetDomainNameVTCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.GetDomainNameVTCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.GetDomainNameCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.GetDomainNameCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.GetDomainNameCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.GetDomainPathVTCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.GetDomainPathVTCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.GetDomainPathVTCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.GetDomainPathCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.GetDomainPathCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.GetDomainPathCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.VerifyConnectionCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.VerifyConnectionCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.VerifyConnectionCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.AuthenticateCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.AuthenticateCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.AuthenticateCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.SearchCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.SearchCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.SearchCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.QueryGroupListCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.QueryGroupListCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.QueryGroupListCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.DirectoryUpdateCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.DirectoryUpdateCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.DirectoryUpdateCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.AuthenticateMembershipCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.AuthenticateMembershipCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.AuthenticateMembershipCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.ChangePasswordCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.ChangePasswordCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.ChangePasswordCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.SetPasswordCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.SetPasswordCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.SetPasswordCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.CreateUserCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.CreateUserCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.CreateUserCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.UpdateUserCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.UpdateUserCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.UpdateUserCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.VersionCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.VersionCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.VersionCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.ManifestVersionCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:CDSServiceCall.com.crawco.cdsws.ManifestVersionCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:CDSServiceCall.com.crawco.cdsws.ManifestVersionCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

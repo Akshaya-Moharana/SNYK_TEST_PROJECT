@@ -1,0 +1,11 @@
+U:\Akshay\MY_DEVELOPMENTS\TCR\WebServiceTest\CDSServiceCall\bin\Debug\CDSServiceCall.exe.config
+U:\Akshay\MY_DEVELOPMENTS\TCR\WebServiceTest\CDSServiceCall\bin\Debug\CDSServiceCall.exe
+U:\Akshay\MY_DEVELOPMENTS\TCR\WebServiceTest\CDSServiceCall\bin\Debug\CDSServiceCall.pdb
+U:\Akshay\MY_DEVELOPMENTS\TCR\WebServiceTest\CDSServiceCall\bin\Debug\CDSServiceCall.xml
+U:\Akshay\MY_DEVELOPMENTS\TCR\WebServiceTest\CDSServiceCall\obj\Debug\CDSServiceCall.vbprojResolveAssemblyReference.cache
+U:\Akshay\MY_DEVELOPMENTS\TCR\WebServiceTest\CDSServiceCall\obj\Debug\CDSServiceCall.Form1.resources
+U:\Akshay\MY_DEVELOPMENTS\TCR\WebServiceTest\CDSServiceCall\obj\Debug\CDSServiceCall.Resources.resources
+U:\Akshay\MY_DEVELOPMENTS\TCR\WebServiceTest\CDSServiceCall\obj\Debug\CDSServiceCall.vbproj.GenerateResource.Cache
+U:\Akshay\MY_DEVELOPMENTS\TCR\WebServiceTest\CDSServiceCall\obj\Debug\CDSServiceCall.exe
+U:\Akshay\MY_DEVELOPMENTS\TCR\WebServiceTest\CDSServiceCall\obj\Debug\CDSServiceCall.xml
+U:\Akshay\MY_DEVELOPMENTS\TCR\WebServiceTest\CDSServiceCall\obj\Debug\CDSServiceCall.pdb

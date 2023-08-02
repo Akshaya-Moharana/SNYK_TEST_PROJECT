@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://cdsws.crawco.com/CDSWS.asmx?wsdl" docRef="http://cdsws.crawco.com/CDSWS.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://cdsws.crawco.com/CDSWS.asmx" xmlns:q1="http://Crawco.com/CDS/" binding="q1:CDSWSSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://cdsws.crawco.com/CDSWS.asmx" xmlns:q2="http://Crawco.com/CDS/" binding="q2:CDSWSSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

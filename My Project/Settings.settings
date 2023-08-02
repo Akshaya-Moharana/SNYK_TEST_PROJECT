@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="CDSServiceCall_com_crawco_cdsws_CDSWS" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://cdsws.crawco.com/CDSWS.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
